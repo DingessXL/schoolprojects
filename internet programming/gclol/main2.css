@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+html{
+    padding: 0;
+    margin: 0 auto;
+    overflow-y:hidden;
+    overflow-x: hidden;
+}
+header{
+    width: 100vw;
+    height: 10vh;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: black 2px 2px 2px;
+}
+header span{
+    color: gold;
+    font-family: "Open Sans", sans-serif, serif;
+    font-weight: bolder;
+    font-size: 3em;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+header a{
+    position: relative;
+    color: white;
+    background: #2b2b2b;
+    font-family: "Open Sans", sans-serif, serif;
+    font-size: 1.2em;
+    padding: 10px;
+    max-height: 7vh;
+    text-decoration: none;
+    box-shadow: #2b2b2b 2px 2px 2px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 1.5vh;
+    letter-spacing: .5px;
+}
+
+header a:hover, a:visited{
+    background-color: #3b3b3b;
+    box-shadow: none;
+}
+h5{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    color: white;
+}
+body{
+    background-size: 90vw 90vh;
+    background: #9E9E9E url(RuneWarsRenektonRender_zps334cbef0.png) no-repeat 50vw 20vh;
+    margin-top: 20vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+table{
+    position: absolute;
+    top: 40%;
+    width: 80vw;
+    left: 10vw;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+table,th,td{
+    background-color: rgba(43, 43, 43,.7);
+    color: white;
+    font-family: "Open Sans", sans-serif, serif;
+
+}
+th{
+    min-width: 20vw;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: gold;
+    letter-spacing: 2px;
+}
+td{
+    text-align: center;
+    padding: 5px;
+    letter-spacing: 1px;
+}
+tr:nth-child(even){
+    background-color: rgba(59, 59, 59,.7);
+
+}
+thead{
+    font-size: 1.5em;
+}
+
+.change{
+    background-color: rgba(43, 43, 43,.7);
+    font-family: "Open Sans", sans-serif, serif;
+    width: 40%;
+    margin: 0 5% 5% 20px;
+    padding: 10px;
+    color:black;
+    border-radius: 5px;
+    float: right;
+}
+fieldset{
+    color: transparent;
+    border-radius: 5px;
+}
+legend{
+    color: gold;
+    font-size: 1.5em;
+    margin: 0 auto;
+}
+label{
+    margin: 20px auto 0;
+    display: block;
+    text-align: center;
+    color: white;
+    font-family: "Open Sans", sans-serif, serif;
+}
+input{
+    margin: 0 auto;
+    display: block;
+}
+input[type="submit"]{
+    position: relative;
+    color: white;
+    background: #2b2b2b;
+    font-family: "Open Sans", sans-serif, serif;
+    font-size: 1.2em;
+    padding: 10px;
+    max-height: 7vh;
+    text-decoration: none;
+    box-shadow: #2b2b2b 2px 2px 2px;
+    margin: 20px auto;
+    letter-spacing: 1px;
+}
+#sign-in{
+    background-color: rgba(43, 43, 43,.7);
+    font-family: "Open Sans", sans-serif, serif;
+    width: 40%;
+    margin: 0 auto;
+    padding: 10px;
+    color:black;
+    border-radius: 5px;
+}
+p{
+    color: white;
+    font-family: "Open Sans", sans-serif, serif;
+    font-size: 24pt;
+    letter-spacing: 1px;
+    width: 70%;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: rgba(43, 43, 43,.7);
+    border-radius: 5px;
+    box-shadow: black 2px 2px 2px;
+}
+h2{
+     margin: 0 auto;
+     text-align: center;
+     font-family: "Open Sans", sans-serif, serif;
+     font-size: 36pt;
+     letter-spacing: 2px;
+     color: gold;
+     padding: 20px;
+     background-color:rgba(43, 43, 43,.7);
+     max-width: 50%;
+     border-radius: 5px;
+     box-shadow: black 2px 2px 2px;
+ }
+h6{
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Open Sans", sans-serif, serif;
+    font-size: 36pt;
+    letter-spacing: 2px;
+    color: white;
+    padding: 20px;
+    background-color:rgba(43, 43, 43,.7);
+    max-width: 50%;
+    border-radius: 5px;
+    box-shadow: black 2px 2px 2px;
+}
+h3{
+    font-family: "Open Sans", sans-serif, serif;
+    position: absolute;
+    top: 10vh;
+    right: 20px;
+    color: white;
+    z-index: 100;
+    border-radius: 5px;
+    padding: 10px;
+    background-color:rgba(43, 43, 43,.7);
+    box-shadow: black 2px 2px 2px;
+ }
+h5{
+    font-family: "Open Sans", sans-serif, serif;
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    color: white;
+    z-index: 100;
+    border-radius: 5px;
+    padding: 10px;
+    background-color:rgba(43, 43, 43,.7);
+    box-shadow: black 2px 2px 2px;
+    max-width: 10vw;
+}
+.error{
+    font-family: "Open Sans", sans-serif, serif;
+    font-size: .8em;
+    color: red;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}

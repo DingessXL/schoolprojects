@@ -1,0 +1,97 @@
+html {
+	font-family: "Arial Black",sans-serif,serif;
+	font-size: 16pt;
+	background-color: black;
+}
+a{
+	text-decoration: none;
+	color: deepskyblue;
+	border: white 2px solid;
+	padding: 10px;
+	border-radius: 5px;
+
+}
+a:hover,a:focus,a:visited{
+	background-color: #2b2b2b;
+}
+body {
+	background-color: black;
+}
+.header{
+	width: 100vw;
+	height: 50vh;
+	background-image:url("gclol.jpg");
+	background-size: auto;
+	background-repeat: no-repeat;
+}
+h2{
+	color: white;
+	font-size:24px;
+	margin: 0 auto;
+	text-align: center;
+}
+header{
+	margin: 0 auto;
+}
+h5{
+	color:white;
+}
+img{
+	margin-left:33%;
+	margin-right:33%;
+}
+form{
+	background-color: white;
+	width: 50%;
+	margin: 0 auto 20px;
+	padding: 10px;
+	color:black;
+	border-radius: 5px;
+}
+fieldset{
+	border-radius: 5px;
+}
+legend{
+	color: gold;
+	margin: 0 auto;
+}
+input{
+	margin: auto;
+}
+p{
+	width: 50%;
+	margin:0 auto;
+	color:white;
+}
+table{
+	border-radius: 5px;
+	margin: 0 auto;
+}
+table,th,td{
+	background-color: white;
+
+}
+th{
+	min-width: 20vw;
+	border-radius: 5px;
+	border: 1px solid black;
+	background-color: gold;
+}
+td{
+	text-align: center;
+	padding: 5px;
+	letter-spacing: 1px;
+}
+tr:nth-child(even){
+	background-color: lightblue;
+
+}
+thead{
+	font-size: 1.5em;
+}
+h5{
+	postion: fixed;
+	bottom: 2vh;
+	right: 2vh;
+	color: gold;
+}
