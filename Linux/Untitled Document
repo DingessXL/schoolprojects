@@ -1,0 +1,30 @@
+#!/bin/bash
+file=$1
+passwordLength=8
+echo "Users Added:" > usersAdded.txt
+while read line; do
+    	#Show username
+	echo $line
+        echo $line >> usersAdded.txt
+	#Creates a random password of $passwordLength characters
+    	password=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w $passwordLength | head -n 1 ) 
+	
+	#Show Password
+    	echo $password
+        echo $password >> usersAdded.txt
+
+	#addUser:
+	#mkdir /home/$line
+	useradd -m $line
+	#chown $line: /home/$line
+        #Set the password for the user
+	echo $line:$password | chpasswd
+	
+	#Create new home directory for the user
+	#mkdir /home/$line
+	
+	#sets user home directory to newly created directory
+	#usermod -m -d /home/$line $line
+done < "$file"
+
+
