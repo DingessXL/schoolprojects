@@ -1,0 +1,19 @@
+<div class="bio" id="winston_bio">
+<h1>Winston</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Winston is the most mobile of the tanks and excels at running down offensive heroes,
+who can't out speed him. His shield is good for point capture and defense, but lacks the durability to be
+considered an amazing ability. Inching forward on offense often feels slow, but defending payloads and their destinations 
+is a good show of Winston at his best.
+His ultimate, however, often feels bad to use because knocking away opponents can give
+them an oppurtunity to escape his clutches and live to fight another day.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Ignore him if he's inside a shield.</li>
+<li> Face him away from walls when he is outraged.</li>
+<li> Tankier heroes and explosives.</li>
+</ul>
+</div>

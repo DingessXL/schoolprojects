@@ -1,0 +1,18 @@
+<div class="bio" id="roadhog_bio">
+
+<h1>Roadhog</h1>
+<div class="back_button" onclick="back()"><<<</div>
+<p>
+Roadhog's playstyle will disrupt the best opponents. A good grab can completely change the vulnerability of the enemy team,
+keep players out of points of contention, and demoralize squishy enemies. Roadhog has incredible sustain at 300 available health points every
+8 seconds. Roadhog's ultimate featrues a knockback mechanic and
+high damage to decimate groups of enemies when fighting for control of points.
+</p>
+<h2>Counterplay</h2><br>
+<ul>
+<li> Tanks and with shields.</li>
+<li> Gorilla Warfare</li>
+<li> Explosives.</li>
+<li> Group effort to kill fast.</li>
+</ul>
+</div>

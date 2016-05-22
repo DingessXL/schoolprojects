@@ -1,0 +1,19 @@
+<div class="bio" id="mei_bio">
+<h1> Mei</h1>
+<div class="back_button" onclick="back()"><<<</div>
+<p>
+Mei is the perfect champion on defense, preferring to wait on enemies to approach,
+than to rush into the enemy lines. However, Mei's walls allow teams to get past opponents
+with lots of defensive heroes, allowing for pushing into points by denying vision. Mei is also bulky
+and can deal with both healthy and frail enemies with ease. Mei's Cryo-freeze allows Mei to be 
+a little bit reckless while teammates catch up to her. Mei's ultimate is the best ability in the game when
+it comes to defending a point by herself, often catching whole teams by surprise.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Long range.</li>
+<li> High mobility to escape being frozen.</li>
+<li> Make her approach you.</li>
+</ul>
+</div>

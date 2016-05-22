@@ -1,0 +1,252 @@
+@font-face {
+    font-family: "Overwatch";
+    src: url("http://us.battle.net/forums/static/fonts/bignoodletoo/bignoodletoo.woff") format('woff');
+}
+
+html, body {
+    margin: 0 auto;
+    padding: 0;
+    overflow: auto;
+}
+
+.header {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-family: "Overwatch", sans-serif;
+    font-size: 18vh;
+    color: white;
+    background:url("./icons/Skin-Body-Background.jpg");
+    height: 20vh;
+    overflow: hidden;
+    padding-left: 2vw;
+}
+
+.ranks_container {
+    background: #36405C;
+    position: fixed;
+    color: white;
+    top: 20vh;
+    width: 60px;
+    height: 80vh;
+}
+.icon_container ul{
+    padding-left: 2vw;
+}
+ul{
+    padding: 0;
+    color: white;
+}
+#reason ul{
+    margin-top: -2vh;
+    padding-left: 2vw;
+}
+.ranks_container li{
+    padding-left: 1vw;
+
+}
+li {
+    list-style-type: none;
+    white-space:nowrap;
+}
+
+.ranks {
+    text-align: left;
+}
+
+.rank {
+    font-family: "Overwatch", sans-serif;
+    font-size: 7vh;
+    padding: 1vh;
+    line-height: 10vh;
+}
+
+.icon_container {
+    position: fixed;
+    top: 20vh;
+    left: 60px;
+    background: url("./icons/dorado.jpg");
+    background-size: cover;
+    width: calc(70vw - (60px));
+    height: 80vh;
+}
+
+.icons {
+    float: left;
+}
+
+.icon {
+    vertical-align: center;
+    line-height: 6vh;
+    margin: 0 auto;
+}
+
+.hero_icon {
+    width: 10vh;
+    height: 10vh;
+}
+
+.hero_icon:visited, .hero_icon:active, .hero_icon:hover {
+
+}
+
+.reasoning {
+    box-shadow: 2px 2px 2px black;
+    position: fixed;
+    top: 20vh;
+    left: 60vw;
+    background: #36405C;
+    width: 40vw;
+    height: 80vh;
+}
+
+#text {
+    color: white;
+    background: red;
+}
+
+#button {
+    color: white;
+    background: blue;
+}
+
+.reason {
+    background: #00C3FF;
+    border-radius: 3vh;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    overflow-y: auto;
+    margin: 2vh;
+}
+
+h1 {
+    font-family: "Overwatch", sans-serif;
+    font-size: 3em;
+    margin-bottom: -2vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+p {
+    padding-right: 2vw;
+    padding-left: 2vw;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: "Overwatch", sans-serif;
+    font-size: 2em;
+    padding-left: 2vw;
+    margin-bottom: -.5vh;
+}
+
+.rank:first-of-type {
+    margin-top: -1.25vh;
+}
+
+#credits {
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    font-size: .5em;
+    color: #dddddd;
+    text-align: center;
+}
+.back_button{
+    float: right;
+    font-family: "Overwatch", sans-serif;
+    font-size: 3em;
+    position: absolute;
+    right: 5vw;
+    top:8vh;
+    z-index: 100;
+    padding-right: 10px;
+}
+.back_button:hover{
+    color: #FFB033;
+}
+svg{
+    max-height: 2vh;
+    max-width: 2vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.h2{
+    font-family: "Overwatch", sans-serif;
+    font-size: 2em;
+    padding-left: 2vw;
+    margin-bottom: -.5vh;
+}
+.bio{
+    min-height: 60vh;
+
+}
+#reason{
+    background: #00C3FF url(icons/Overwatch_line_art_logo_symbol-only.png) no-repeat center;
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 70vh;
+}
+#tracer_bio {
+    background: url(heroes/Tracer.png) no-repeat left bottom;
+}
+#widowmaker_bio {
+    background: url(heroes/Widowmaker.png) no-repeat left bottom;
+}
+
+#roadhog_bio {
+    background: url(heroes/Roadhog.png) no-repeat left bottom;
+}
+#mercy_bio{
+    background: url(heroes/Mercy.png) no-repeat left bottom;
+}
+#genji_bio{
+    background: url(heroes/Genji.png) no-repeat left bottom;
+}
+#mei_bio{
+    background: url(heroes/Mei.png) no-repeat left bottom;
+}
+#junkrat_bio{
+    background: url(heroes/Junkrat.png) no-repeat left bottom;
+}
+#genji_bio{
+    background: url(heroes/Genji.png) no-repeat left bottom;
+}
+#bastion_bio{
+    background: url(heroes/Bastion.png) no-repeat left bottom;
+ }
+#reinhardt_bio{
+    background: url(heroes/Reinhardt.png) no-repeat left bottom;
+}
+#lucio_bio{
+    background: url(heroes/Lucio.png) no-repeat left bottom;
+}
+#pharah_bio{
+    background: url(heroes/Pharah.png) no-repeat left bottom;
+}
+#symmetra_bio{
+    background: url(heroes/Symmetra.png) no-repeat left bottom;
+}
+#soldier76_bio{
+    background: url(heroes/Soldier76.png) no-repeat left bottom;
+}
+#mccree_bio{
+    background: url(heroes/McCree.png) no-repeat left bottom;
+}
+#torbjorn_bio{
+    background: url(heroes/Torbjorn.png) no-repeat left bottom;
+}
+#dva_bio{
+    background: url(heroes/DVA.png) no-repeat left bottom;
+}
+#hanzo_bio{
+    background: url(heroes/Hanzo.png) no-repeat left bottom;
+}
+#winston_bio{
+     background: url(heroes/Winston.png) no-repeat left bottom;
+ }
+#reaper_bio{
+    background: url(heroes/Reaper.png) no-repeat left bottom;
+}
+#zarya_bio{
+    background: url(heroes/Zarya.png) no-repeat left bottom;
+}

@@ -1,0 +1,17 @@
+<div class="bio" id="pharah_bio">
+<h1>Pharah</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Pharah is an exceptional choice when your opponents like to group up. Pharah's explosives
+allow her to hit elusive enemies with splash damage and big enemies with heavy direct damage.
+Pharah is somewhat slow though, and suffers from vulnerability when she "lets justice rain from above."
+Getting direct hits on squihsy targets will decimate them, although good players will dodge direct hits with ease.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Snipers and turrets.</li>
+<li> Look to the skies.</li>
+<li> High mobility heroes.</li>
+</ul>
+</div>

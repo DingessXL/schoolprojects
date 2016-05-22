@@ -1,0 +1,17 @@
+<div class="bio" id="widowmaker_bio">
+<h1> Widowmaker </h1> <div class="back_button" onclick="back()"><<<</div>
+<p>
+Widowmaker is a sound choice for skilled players to exercise their dominance. She excels at long range combat and does the most damage per shot in the game.
+Good Widowmakers will take advantage of the scope by frequently zooming in and out. To play her to the highest level, players will have to
+become accurate at high sensitivity gameplay. What sets Widowmaker over the top is her ultimate ability. Gaining sight and giving teammates knowledge of opponents
+whereabouts will prove to be the most useful skill in the game.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> High-mobility</li>
+<li> Keep your team inside.</li>
+<li> Shields.</li>
+<li> Close combat. </li>
+</ul>
+</div>

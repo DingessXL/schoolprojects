@@ -1,0 +1,18 @@
+<div class="bio" id="soldier76_bio">
+<h1>Soldier 76</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Soldier 76 is a balanced hero with a variety of different styles, including Run-and-Gun,
+Gorilla Warfare, and can even serve to balance your team's lack of healing. Soldier 76's sprint is
+a great, infinite mobility move. He can fight in any kind of environment and excels against other
+offense heroes. His Helix Rockets are useful at execution range of less-healthy heroes, and are great for
+killing tanks from far away. Soldier 76's ult is great for killing mobile heroes.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Don't let him get out of sight.</li>
+<li> Sustaining heroes.</li>
+<li> Bulky, close-combat heroes.</li>
+</ul>
+</div>

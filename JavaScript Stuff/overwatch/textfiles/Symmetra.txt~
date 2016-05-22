@@ -1,0 +1,17 @@
+<div class="bio" id="symmetra_bio">
+<h1>Symettra</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Symettra is a tempo hero, and allows your team to get back in the fray quicker
+when killed. Symmetra excels at keeping the pressure up and defending early payload locations.
+Symettra is great at defending backdoors to your team for heroes like Bastion and Torbjorn. Symmetra, however,
+prefers not to fight herself, making her a less than stellar choice for teams on offense.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Look before you leap.</li>
+<li> Find and destroy her turrets.</li>
+<li> She doesn't like direct combat.</li>
+</ul>
+</div>

@@ -1,0 +1,19 @@
+<div class="bio" id="reaper_bio">
+<h1>Reaper</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Reaper's handcannon's will destroy anyone that gets in his way, often killing targets in less than a second. Reaper can infilitrate
+the backline of the enemy with his teleport, but also alerts the enemy in doing so. Becoming impervious to bullets for a short time
+is a decent defensive ability, but shouldn't be used to close in on many heroes, as they are already
+set up to blast him when he becomes tangible again. Reapers ult is easily canceled and the 
+sound queue for it allows the enemy to react in no time at all. Killing targets from far away is near impossible 
+for Reaper.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Long range combat.</li>
+<li> Focus him.</li>
+<li> Turn your game volume up.</li>
+</ul>
+</div>

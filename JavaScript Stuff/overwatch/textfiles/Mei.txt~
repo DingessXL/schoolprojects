@@ -1,0 +1,19 @@
+<div class="bio" id="mei_bio">
+<h1> Mei</h1>
+<div class="back_button" onclick="back()"><<<</div>
+<p>
+Genji excels at disrupting the backline of a team. Genji's throwing stars have great damage and good versatility for
+both long range and short range combat. Being able to reflect projectiles is an amazing ability for both defense and offense.
+Genji's ult is a little lackluster for S tier, but if Genji didn't have an ultimate 
+at all, he would still make the tier. Being able to close in and melee, and dash away from bad fights
+make Genji an excellent hero on both offense and defense.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Don't dump your ammo on his reflect.</li>
+<li> Distance yourself. </li>
+<li> Tanks and explosives.</li>
+<li> Don't let him behind your team.</li>
+</ul>
+</div>

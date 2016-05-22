@@ -1,0 +1,17 @@
+<div class="bio" id="zarya_bio">
+<h1>Zarya</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Zarya feels almost like a hybrid offense and tank hero. She often feels like an off-tank, and
+needs a good team composition to fully succeed. Zarya combines a lot of elements of other heroes in
+a unique way, but also suffers from the pitfalls of those heroes as well. Zarya does decent damage with her laser
+beam and excellent damage with her barrage of explosions. Zarya's ultimate is most 
+devastating in one scenario: The enemy team is grouped on an objective.</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Longe range and explosives.</li>
+<li> Other tanks.</li>
+<li> High mobility heroes.</li>
+</ul>
+</div>

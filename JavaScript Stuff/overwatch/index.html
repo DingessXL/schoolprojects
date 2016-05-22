@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript" async></script>
+    <script src="reasoning.js" type="text/javascript" async></script>
+    <meta charset="UTF-8">
+    <title>TierList</title>
+    <link href="main.css" type="text/css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="header">Overwatch Tier List</div>
+<div class="ranks_container">
+    <ul class="ranks">
+        <li class="rank">S+</li>
+        <li class="rank">S</li>
+        <li class="rank">A</li>
+        <li class="rank">B</li>
+        <li class="rank">C</li>
+        <li class="rank">D</li>
+    </ul>
+</div>
+<div class="icon_container">
+    <ul class="icons">
+        <li class="icon" id="S+">
+            <img class="hero_icon" id="Tracer" src="./icons/Tracer_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Widowmaker" src="./icons/Widowmaker_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Roadhog" src="./icons/Roadhog_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Mercy" src="./icons/Mercy_portrait.png" onclick="test(this.id)"/>
+        </li>
+        <li class="icon" id="S">
+            <img class="hero_icon" id="Genji" src="./icons/Genji_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Mei" src="./icons/Mei_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Junkrat" src="./icons/Junkrat_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Bastion" src="./icons/Bastion_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Reinhardt" src="./icons/Reinhardt_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Lucio" src="./icons/Lúcio_portrait.png" onclick="test(this.id)"/>
+        </li>
+        <li class="icon" id="A">
+            <img class="hero_icon" id="Pharah" src="./icons/Pharah_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Soldier76" src="./icons/Soldier76_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Symmetra" src="./icons/Symmetra_portrait.png" onclick="test(this.id)"/>
+        </li>
+        <li class="icon" id="B">
+            <img class="hero_icon" id="McCree" src="./icons/McCree_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Torbjorn" src="./icons/Torbjörn_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="DVa" src="./icons/D.Va_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Zarya" src="./icons/Zarya_portrait.png" onclick="test(this.id)"/>
+        </li>
+        <li class="icon" id="C">
+            <img class="hero_icon" id="Hanzo" src="./icons/Hanzo_portrait.png" onclick="test(this.id)"/>
+            <img class="hero_icon" id="Winston" src="./icons/Winston_portrait.png" onclick="test(this.id)"/>
+        </li>
+        <li class="icon" id="D">
+            <img class="hero_icon" id="Reaper" src="./icons/Reaper_portrait.png" onclick="test(this.id)"/>
+
+        </li>
+    </ul>
+</div>
+<div class="reasoning">
+    <div class="reason" id="reason">
+        <h1>Welcome</h1>
+        <p> Here you'll find my personal tier list for competitive play.
+            This is not a definitive list of competitive viability, but just my ranking for heroes
+            based on reward and skill levels. Also keep in mind, that heroes have different viability
+            and strengths depending on modes, attack/defend, and team composition.</p>
+        <p>
+            I hope you find it helpful when choosing a hero to both have fun, and
+            get more wins. Good luck out there in the world, hero!
+        </p>
+        <p>
+            I hope to make a UI to get you guys' input in the future and base
+            this site's rankings on some group analysis.
+        </p>
+
+        <p>
+        <h2>Contact Info:</h2>
+        <br>
+        <ul>
+            <li>Battle Tag: Dingess#1866</li>
+            <li>Discord: Dingess</li>
+            <li>Email: dingess@protonmail.com</li>
+        </ul>
+    </div>
+    <p id="credits">Site by: Daniel Dingess<br>
+        Frames from playoverwatch.com & overwatch.gamepedia.com
+    </p>
+</div>
+</body>
+</html>

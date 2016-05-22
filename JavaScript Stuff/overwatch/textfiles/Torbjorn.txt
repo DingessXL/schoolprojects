@@ -1,0 +1,17 @@
+<div class="bio" id="torbjorn_bio">
+<h1>Torbjorn</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Torbjorn is always a great choice on defense. Torbjorn's turret, when place in the right spot, 
+will dispatch enemies automatically and with ease, while Torbjorn presents a decent amount of 
+shielding to his teammates. Torbjorn suffers from a unique lack of offensive ability, and is probably the worst 
+character to play on offense. This is balanced with an incredible defensive strength.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Destroy his turrets at early levels.</li>
+<li> Direct combat.</li>
+<li> Walls, shields, and mobility.</li>
+</ul>
+</div>

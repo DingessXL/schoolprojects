@@ -1,0 +1,17 @@
+<div class="bio" id="dva_bio">
+<h1>DVA</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+DVA's bulk and infinite ammo can prove to be difficult to deal with, as well as 
+dealing with her twice before she's actually defeated. DVA is great against teams with multiple explosive users,
+as she destroyes those projectiles with her Defense Array. DVA's ult has incredible damage 
+and range and when used correctly will not fail to clear objectives and groups of enemies.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Tanks.</li>
+<li> Shoot at her mech while she jumps out.</li>
+<li> Bulky, close-combat heroes.</li>
+</ul>
+</div>

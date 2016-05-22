@@ -1,0 +1,17 @@
+<div class="bio" id="tracer_bio">
+
+<h1> Tracer </h1>
+<div class="back_button" onclick="back()"><<<</div>
+<p>
+Tracer's mobility is unparalleled in Overwatch. Killing a good Tracer can prove to be a challenge for even the best teams,
+since fights occur only when she wants them to. Disrupting the enemy back-line and decimating groups with her ultimate are
+some of her specialties. Anyone not fast enough to keep up will be left in the dust.
+</p>
+<h2>Counterplay</h2><br>
+<ul>
+<li> Bulkier chasers.</li>
+<li> Spreading your team out</li>
+<li> Bringing her into the open</li>
+<li> Sustain
+</ul>
+</div>

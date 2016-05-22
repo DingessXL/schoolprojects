@@ -1,0 +1,19 @@
+<div class="bio" id="reinhardt_bio">
+<h1>Reinhardt</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Reinhardt has, undeniably, the best shield in the game. It's high durability and large surface area
+keeps your team safe for a long time. Reinhardt can pair with a number of heroes to become an unstoppable force.
+Reinhardt's utility is great on both offense and defense. Reinhardt is also great at killing other tanks with his charge
+and can easily dispatch groups of enemies with his ult. Clubbing enemies to death with high melee 
+damage is oh-so satisfying.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Get behind his shield and kill his teammates.</li>
+<li> Explosives.</li>
+<li> Strafe at all times.</li>
+<li> Stay our of melee range.</li>
+</ul>
+</div>

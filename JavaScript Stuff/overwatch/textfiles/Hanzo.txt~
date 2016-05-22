@@ -1,0 +1,18 @@
+<div class="bio" id="hanzo_bio">
+<h1>Hanzo</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Hanzo is a defensive hero that is great around at around-the-corner fighting. Hanzo's arrows
+are a strong projectile, but they lack some accuracy, although skilled Hanzo players can negate this 
+effect. Hanzo's Dragon Strike is powerful and can clear any stronghold, but often hard to build meter for.
+Scatter arrow is a great way to kill enemies lodged in the corner or chasing Hanzo, but often feels
+lackluster in the physics of the bouncing. 
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Widowmaker is just better.</li>
+<li> Bulky, close-combat heroes.</li>
+<li> Sustain.</li>
+</ul>
+</div>

@@ -1,0 +1,18 @@
+<div class="bio" id="genji_bio">
+<h1> Genji</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Mercy is an easy hero to play, but difficult to master. Mercy requires a good sense of your teams position and status to use
+correctly. Her ultimate will revive your team's dead members in place, meaning a good Mercy ult can swing the game in an instant
+by keeping control of any objective. Mercy builds her meter easily and safely, assuming you are with your teammates, and is a reliable support
+with amazing one-target sustain (as well as herself).
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Focus her.</li>
+<li> Listen for her ultimate.</li>
+<li> High damage/projectile heroes.</li>
+<li> Disconnect her from the team.</li>
+</ul>
+</div>

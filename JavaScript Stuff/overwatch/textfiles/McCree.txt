@@ -1,0 +1,19 @@
+<div class="bio" id="mccree_bio">
+<h1>McCree</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+McCree is an offensive hero that excels at killing squishy targets by stunning them and 
+unloading into their guts. Good McCree players will take full advantage of rolling to reload,
+and release several volleys of bullets into enemy heroes. McCree's revolver is also a decent sniper rifle.
+McCree, however, suffers from the need for pinpoint accuracy, and high mobility characters will prove difficult to handle.
+McCree also lacks defensive mechanics, and needs good support to be a big threat.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Don't get close.</li>
+<li> Don't stand still.</li>
+<li> Long range combat. </li>
+<li> Displacement and explosives.</li>
+</ul>
+</div>

@@ -1,0 +1,18 @@
+<div class="bio" id="reinhardt_bio">
+<h1>Lucio</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Lucio is an interesting support choice, because he builds meter passively and quickly when in the vacinity
+of teammates, making his ultimate useful quite a lot in a single game or match. Lucio's knockback is good for self-defense 
+and being hit by a triple hit is a decent amount of damage. Lucio's ultimate is great for keeping control of objectives.
+Lucio's gameplay is somewhat linear, but is useful on any team.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Focus him.</li>
+<li> Run away during Sound Barrier.</li>
+<li> High damage heroes.</li>
+<li> Split him off from his team.</li>
+</ul>
+</div>

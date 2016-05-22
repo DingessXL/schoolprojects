@@ -1,0 +1,19 @@
+<div class="bio" id="bastion_bio">
+<h1>Bastion</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Bastion is easy to excel at as long as you know the map well. Bastion's high rate of fire,
+ammo/clip, and bullet damage make him an exceptional choice to defense teams. Bastion suffers from
+a need for the enemy to come to him, however, and when on the attack can easily be dealt with.
+Bastion can however, set up on a payload and be an unstoppable force when combined with support from
+a good shield. 
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Stay inside.</li>
+<li> Explosives.</li>
+<li> Get behind him.</li>
+<li> Don't allow him to set up in the first place.</li>
+</ul>
+</div>

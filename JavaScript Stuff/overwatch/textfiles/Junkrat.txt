@@ -1,0 +1,20 @@
+<div class="bio" id="junkrat_bio">
+<h1> Junkrat</h1>
+ <div class="back_button" onclick="back()"><<<</div>
+<p>
+Junkrat has an uncanny ability to stay safe while dealing massive damage to enemy heroes.
+His bouncing explosives can make short work of tanky immobile units, and a direct hit from
+them will cause any squishy target to feel the pain. High burst damage and displacement from
+his mine makes Junkrat incredible at point defense and getting people away from a payload. Junkrat's ultimate
+is able to be dealt with, but Junkrat can be safe while using it. Junkrat's "martyrdom" will keeps enemies at bay 
+when controlling points, and can get some tricky kills versus forgetful enemies.
+</p>
+
+<h2>Counterplay</h2><br>
+<ul>
+<li> Shoot his Rip-tire.</li>
+<li> Move out of the way of frags.</li>
+<li> Long distance combat.</li>
+<li> Don't let him behind your team.</li>
+</ul>
+</div>
